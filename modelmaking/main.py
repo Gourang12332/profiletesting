@@ -30,12 +30,12 @@ test_scores = {
 skills_score = calculate_skills_score(profile, ideal_skills)
 profile['skills_score'] = skills_score
 
-# Predict final profile score
+# Predict 
 final_score = predict_profile_score(profile, test_scores)
 
-# Generate personalized feedback
+# Generate
 feedback = generate_personalized_feedback(profile, final_score,test_scores,ideal_skills)
 print(feedback)
 
-# Plot profile analysis
+
 plot_profile_analysis(profile, test_scores, final_score)
