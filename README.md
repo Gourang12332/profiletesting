@@ -1,2 +1,10 @@
-This an ai ml model for calculating the profile score and calculating the test result , and showcasing the results through matplotlib liabrary , this will also giving the feedback to the users . 
-Actually this was the model i want to integrate in SIH problem statement 2024 , which demands for ai model for profile score calculations, test analysis and personal recommendations for improvement.
+This project is an AI/ML-powered model designed to calculate profile scores and evaluate test results, presenting the outcomes visually using the Matplotlib library.
+In addition to performance analysis, the model generates personalized feedback and recommendations to help users improve.
+
+Originally developed as part of the Smart India Hackathon (SIH) 2024 problem statement, it fulfills the requirement for:
+
+AI-based profile score calculation
+
+Detailed test performance analysis
+
+Actionable, personalized improvement suggestions
